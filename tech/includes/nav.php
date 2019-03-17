@@ -5,7 +5,7 @@
         <div class="header__wrapper__col header__wrapper__col--left">
             <div class="header__logo">
                 <a class="header__logo__link" href="index.html">
-                    <img class="header__logo__image header__logo__image--light" src="application/themes/itp/images/logo.png" alt="ITP Media Group">
+                    <img class="header__logo__image header__logo__image--light" src="application/files/image/logo_2-1.png" alt="ITP Media Group">
                 </a>
             </div>
         </div>

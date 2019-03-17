@@ -17,9 +17,6 @@
             </div>
             <div class="footer__wrapper__col">
                 <div class="footer__social">
-
-
-
                     <div id="ccm-block-social-links1824" class="ccm-block-social-links">
                         <ul class="list-inline">
                             <li><a title="Visit ITP Media Group Facebook link" target="_blank" href="https://www.facebook.com/itpmediagroup/"><span class="fa fa-facebook"></span></a></li>

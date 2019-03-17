@@ -7,13 +7,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <!-- Author -->
-    <meta name="author" content="TenTwenty | Webdesign, Webshops & E-marketing | Dubai">
+    <meta name="author" content="Bianco E nero | Webdesign, BusinessSoftware & E-marketing | Egypt">
 
     <!-- Below tag will be used for android mobile browser colors, change it to main logo color of the project -->
     <meta name="theme-color" content="#0478C1">
 
     <!-- Meta Tags for Social Media -->
-    <meta property="og:site_name" content="ITP Media Group">
+    <meta property="og:site_name" content="Bianco E nero ">
     <meta property="og:image" content="https://www.itp.com/application/themes/itp/images/sharinglogo.jpg">
     <meta property="og:title" content="ITP Media Group | Home">
     <meta property="og:description" content="ITP Media Group | Middle East Leading Magazine Publishing company offering Business,Consumer,Customer,Technology,Lifestyle Magazines in Dubai,UAE,Middle East. ITP Group also offers internet ventures and online publishing in the region Gulf,GCC & Middle East.">
