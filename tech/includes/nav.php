@@ -66,7 +66,7 @@
     </div>
 </header>
 -->
-<!--
+
 <div class="menu" id="menu">
     <span class="menu__bg menu__bg--dark"></span>
     <span class="menu__bg"></span>
@@ -121,4 +121,3 @@
         </div>
     </div>
 </div>
--->
