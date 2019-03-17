@@ -22,7 +22,7 @@
                 <li class="s-nav__item "><a href="events.html" target="_self" class="s-nav__item__link">Contact</a></li>
                 <li class="s-nav__item "><a href="about.html" target="_self" class="s-nav__item__link">About</a></li>
                 <li class="s-nav__item "><a href="about.html" target="_self" class="s-nav__item__link">Request project</a></li>
-                
+
             </ul>
             <!--
             <form action="search.html" method="get" class="header__search">
