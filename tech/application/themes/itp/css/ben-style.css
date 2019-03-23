@@ -4519,7 +4519,9 @@ canvas#globekit-canvas {
     padding-top: 3px;
 }
 .header--sticky .header__logo__image {
-    width: 7.75em;
+    width: 20.75em;
+    position:absolute;
+    top: 6PX;
 }
 .header--sticky .mobile-menu {
     top: 0px;
@@ -7255,6 +7257,7 @@ span.sr-only {
     }
 }.two-cols__expand {
      margin-top: 2em;
+     margin-bottom: 10px;
  }
 .two-cols__wrapper {
     padding: 0 8.33333333%}
